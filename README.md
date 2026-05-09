@@ -48,14 +48,4 @@ Atualmente cursando Ciências da Computação 1° período na Universidade da Ci
  
 ---
  
-### 🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
 
-
-Onde encontrar mais badges:
-
-https://ileriayo.github.io/markdown-badges/
-https://github.com/alexandresanlim/Badges4-README.md-Profile# Portf-lio-Giovanni-dos-santos-silva
