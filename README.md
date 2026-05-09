@@ -48,3 +48,7 @@ Atualmente cursando Ciências da Computação 1° período na Universidade da Ci
 | :--- | :--- | :---: |
 | **Predição de Churn** | automatizar a identificação de perfis profissionais. | [Ver Projeto](./laboratório-de-classificação-visual/) |
 
+ #### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Predição de Churn** | A corrida do Prompt. | [Ver Projeto](./a-corrida-do-prompt/) |
