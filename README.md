@@ -39,7 +39,7 @@ Atualmente cursando Ciências da Computação 1° período na Universidade da Ci
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./https://ai.studio/apps/5ce7e9b1-3b21-4b97-8e6e-96f86678a1f0/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
