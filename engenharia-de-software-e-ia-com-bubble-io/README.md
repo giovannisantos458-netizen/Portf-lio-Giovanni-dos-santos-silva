@@ -1,6 +1,4 @@
-Aqui está a descrição do seu novo projeto, estruturada exatamente no modelo que você solicitou e baseada nas informações técnicas e funcionais presentes nos documentos anexados:
 
----
 
 # 💇‍♂️ Sistema de Agendamento - Barbearia Tigre
 
