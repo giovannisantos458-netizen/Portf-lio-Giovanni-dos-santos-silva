@@ -1,6 +1,4 @@
-Com base no modelo que você forneceu e nos dados técnicos do documento "Experiência 3", aqui está a descrição adaptada para o seu projeto:
 
----
 
 # ⚔️ Prompt Battle & XML Engine - Otimização de Modelos de Linguagem
 
