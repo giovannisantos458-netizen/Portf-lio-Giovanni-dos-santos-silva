@@ -1,0 +1,5 @@
+{
+  "name": "Blobmaker",
+  "description": "A generative SVG blob tool for creating organic shapes.",
+  "requestFramePermissions": []
+}
