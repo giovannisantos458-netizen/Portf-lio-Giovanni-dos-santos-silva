@@ -46,3 +46,4 @@ Atualmente cursando Ciências da Computação 1° período na Universidade da Ci
 | **Predição de Churn** | A corrida do Prompt. | [Ver Projeto](./a-corrida-do-prompt/) |
 | **Predição de Churn** | Batalha de modelos e engenharia de prompt. | [Ver Projeto](./batalha-de-modelos-e-engenharia-de-prompt/) |
 | **Predição de Churn** | Do Clone ao Produto Mínimo Viável. | [Ver Projeto](./do-clone-ao-produto-mínimo-viável/) |
+| **Predição de Churn** | Engenharia de Software e IA com Bubble.io. | [Ver Projeto](.//) |
