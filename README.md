@@ -36,15 +36,12 @@ Atualmente cursando Ciências da Computação 1° período na Universidade da Ci
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Gerador de imagens Svg. | [Ver Projeto](./gerador-de-imagens-svg/) |
+
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Predição de Churn** | Gerador de imagens Svg. | [Ver Projeto](./gerador-de-imagens-svg/) |
  
 ---
  
