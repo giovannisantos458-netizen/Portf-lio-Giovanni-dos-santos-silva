@@ -1,1 +1,1 @@
-.
+📝 Descrição do Projeto, nesse trabalho usamos a IA para criar imagens so podiamos usar 5 prompts e fazer a IA respeitar e nao fazer nada diferente do que pedimos.  🚀 Acesse o ProjetoVocê pode experimentar a criação de cenários e o refinamento de prompts através do link abaixo:
