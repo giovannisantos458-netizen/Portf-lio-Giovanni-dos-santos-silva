@@ -46,5 +46,5 @@ Atualmente cursando Ciências da Computação 1° período na Universidade da Ci
  #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Gerador de imagens Svg. | [Ver Projeto](./gerador-de-imagens-svg/) |
+| **Predição de Churn** | automatizar a identificação de perfis profissionais. | [Ver Projeto](./laboratório-de-classificação-visual/) |
 
