@@ -39,7 +39,7 @@ Atualmente cursando Ciências da Computação 1° período na Universidade da Ci
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./gerador-de-imagens-svg/) |
+| **Sistema de Gestão Escolar** | Gerador de imagens Svg. | [Ver Projeto](./gerador-de-imagens-svg/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
