@@ -43,17 +43,14 @@ Atualmente cursando Ciências da Computação 1° período na Universidade da Ci
 | :--- | :--- | :---: |
 | **Predição de Churn** | Gerador de imagens Svg. | [Ver Projeto](./gerador-de-imagens-svg/) |
  
- #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Predição de Churn** | automatizar a identificação de perfis profissionais. | [Ver Projeto](./laboratório-de-classificação-visual/) |
 
- #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Predição de Churn** | A corrida do Prompt. | [Ver Projeto](./a-corrida-do-prompt/) |
 
-#### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Predição de Churn** | Batalha de modelos e engenharia de prompt. | [Ver Projeto](./batalha-de-modelos-e-engenharia-de-prompt/) |
