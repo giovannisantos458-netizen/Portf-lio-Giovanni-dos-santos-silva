@@ -47,3 +47,35 @@ Atualmente cursando Ciências da Computação 1° período na Universidade da Ci
 | **Batalha de modelos e engenharia de prompt** | Usamos 7 IA's para criar um site em html. | [Ver Projeto](./batalha-de-modelos-e-engenharia-de-prompt/) |
 | **SVGflow final** | Do Clone ao Produto Mínimo Viável. | [Ver Projeto](./do-clone-ao-produto-mínimo-viável/) |
 | **Criação no Bubble.io** | Engenharia de Software e IA com Bubble.io. | [Ver Projeto](./engenharia-de-software-e-ia-com-bubble-io/) |
+
+### 🏗 Estrutura do Repositório
+
+Abaixo, a organização deste repositório para facilitar a navegação e apresentação dos projetos desenvolvidos durante as atividades acadêmicas, estudos em IA e desenvolvimento web.
+
+```bash
+.
+├── README.md (Principal do Portfólio)
+├── .github/ (Opcional: imagens, banners e assets)
+│
+├── a-corrida-do-prompt/
+│   ├── Prompt+1.docx.pdf
+│   └── README.md
+│
+├── batalha-de-modelos-e-engenharia-de-prompt/
+│   ├── Experiência+3+-+Batalha+de+...
+│   └── README.md
+│
+├── do-clone-ao-produto-minimo-viavel/
+│   └── README.md
+│
+├── engenharia-de-software-e-ia-com-bubble/
+│   ├── Documento+(4).pdf
+│   ├── rascunho_banco_de_dados.pdf
+│   └── README.md
+│
+├── gerador-de-imagens-svg/
+│   └── README.md
+│
+└── laboratório-de-classificação-visual/
+    ├── Experiência+02+Laboratório+...
+    └── README.md
