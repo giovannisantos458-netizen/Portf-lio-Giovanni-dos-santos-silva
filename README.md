@@ -52,3 +52,8 @@ Atualmente cursando Ciências da Computação 1° período na Universidade da Ci
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Predição de Churn** | A corrida do Prompt. | [Ver Projeto](./a-corrida-do-prompt/) |
+
+#### 🤖 Inteligência Artificial
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Predição de Churn** | Batalha de modelos e engenharia de prompt. | [Ver Projeto](./batalha-de-modelos-e-engenharia-de-prompt/) |
