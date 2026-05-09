@@ -43,7 +43,7 @@ Atualmente cursando Ciências da Computação 1° período na Universidade da Ci
 | :--- | :--- | :---: |
 | **SVGflow** | Gerador de imagens Svg. | [Ver Projeto](./gerador-de-imagens-svg/) |
 | **Laboratorio de Classificação Visual** | automatizar a identificação de perfis profissionais. | [Ver Projeto](./laboratório-de-classificação-visual/) |
-| ** A corrida do Prompt** | Criação de imagens com IA. | [Ver Projeto](./a-corrida-do-prompt/) |
-| ** Batalha de modelos e engenharia de prompt** | Usamos 7 IA's para criar um site em html. | [Ver Projeto](./batalha-de-modelos-e-engenharia-de-prompt/) |
+| **A corrida do Prompt** | Criação de imagens com IA. | [Ver Projeto](./a-corrida-do-prompt/) |
+| **Batalha de modelos e engenharia de prompt** | Usamos 7 IA's para criar um site em html. | [Ver Projeto](./batalha-de-modelos-e-engenharia-de-prompt/) |
 | **SVGflow final** | Do Clone ao Produto Mínimo Viável. | [Ver Projeto](./do-clone-ao-produto-mínimo-viável/) |
 | **Criação no Bubble.io** | Engenharia de Software e IA com Bubble.io. | [Ver Projeto](./engenharia-de-software-e-ia-com-bubble-io/) |
