@@ -1,6 +1,4 @@
-Com base na estrutura que você enviou e no conteúdo do documento anexado, aqui está a descrição adaptada para o seu projeto:
 
----
 
 # 🤖 IA para Automação de E-commerce e Gestão
 
