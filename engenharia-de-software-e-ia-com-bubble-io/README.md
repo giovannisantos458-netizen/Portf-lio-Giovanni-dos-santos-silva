@@ -34,8 +34,6 @@ Você pode visualizar a aplicação e simular o fluxo de agendamento através do
 
 
 
----
 
-### **Dica de mestre:**
 
-Como o seu projeto lida com **gestão de horários**, uma excelente aplicação de IA seria implementar um sistema de "Predição de Ausência" (No-show). Usando os dados do histórico de agendamentos, você poderia treinar um modelo simples para identificar quais clientes têm maior probabilidade de faltar, permitindo que a barbearia envie lembretes automáticos mais incisivos ou libere a vaga preventivamente.
+
