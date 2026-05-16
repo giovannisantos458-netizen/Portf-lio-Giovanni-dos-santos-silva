@@ -13,9 +13,9 @@
 ### 👨‍💻 Sobre
 Atualmente cursando Ciências da Computação 1° período na Universidade da Cidade de São Paulo (Unicid). Sou apaixonado por resolver problemas através da tecnologia.
  
-* **Habilidades Técnicas: Python.
-* **Habilidades Socioemocionais: Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes: Ainda não atuei em nenhum projeto, atualmente procuro uma oportunidade de estágio
+* **Habilidades Técnicas: Python.**
+* **Habilidades Socioemocionais: Trabalho em equipe, comunicação assertiva e pensamento crítico.**
+* **Experiência/Projetos Relevantes: Ainda não atuei em nenhum projeto, atualmente procuro uma oportunidade de estágio**
  
 ---
  
